@@ -16,7 +16,7 @@ To run this application, follow the following steps:
    
     pip install -r requirements.txt
 
-4. Update the path of the model in line 11 of llm.py
+4. Update the path of the model in line 10 of llm.py
 
    It should look like this:
 
