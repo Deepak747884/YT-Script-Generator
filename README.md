@@ -20,7 +20,7 @@ To run this application, follow the following steps:
 
    It should look like this:
 
-   "<Path>/nomic.ai/GPT4All/ggml-model-gpt4all-falcon-q4_0.bin"
+   "{path}/nomic.ai/GPT4All/ggml-model-gpt4all-falcon-q4_0.bin"
 
 6. Start the python application using
    
