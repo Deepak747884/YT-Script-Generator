@@ -10,14 +10,18 @@ To run this application, follow the following steps:
 
     Ubuntu: https://gpt4all.io/installers/gpt4all-installer-linux.run
 
-3. Download the Falcon LLM model, and note the download path.
+2. Using above, download the Falcon LLM model, and note the download path.
 
-4. Install the required dependencies:
+3. Install the required dependencies:
    
     pip install -r requirements.txt
 
-6. Update the path of the model in line 11 of llm.py
+4. Update the path of the model in line 11 of llm.py
 
-7. Start the python application using
+   It should look like this:
+
+   "<Path>/nomic.ai/GPT4All/ggml-model-gpt4all-falcon-q4_0.bin"
+
+6. Start the python application using
    
     streamlit run llm.py
