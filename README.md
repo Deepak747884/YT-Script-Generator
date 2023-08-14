@@ -1,5 +1,9 @@
 # YT-Script-Generator
 
+Deployed application:
+
+https://yt-script-generator.streamlit.app/
+
 To run this application, follow the following steps:
 
 1. Install the GPT4All Installer using GUI based installers
